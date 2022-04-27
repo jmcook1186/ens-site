@@ -53,7 +53,7 @@ function App() {
 
     <a href="https://github.com/jmcook1186/biosnicar-py" 
     style={{position:"absolute", left:100, top: 510, color: 'grey', fontSize: 18}}>
-    BioSNICAR: fully features snow and ice albedo model</a>
+    BioSNICAR: fully featured snow and ice albedo model</a>
 
     <a href="https://github.com/jmcook1186/BrightLink" 
     style={{position:"absolute", left:100, top: 560, color: 'grey', fontSize: 18}}>
